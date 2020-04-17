@@ -1,0 +1,1 @@
+java -cp hamster.jar Game.Main
